@@ -1,6 +1,6 @@
 # Chat NCST
 
-This is a part of [**Flutter x Firebase**](https://www.facebook.com/photo/?fbid=270603882137441&set=a.145345444663286) workshop for NCST - Dasmariñas.
+This is a part of [**Flutter x Firebase**](https://www.facebook.com/photo/?fbid=270603882137441&set=a.145345444663286) workshop for NCST - Dasmariñas. In this workshop, students will learn the basics of Flutter and Firebase (authentication, cloud firestore and hosting).
 
 
 ## Output
