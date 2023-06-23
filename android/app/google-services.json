@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613732719339",
+    "project_id": "chat-ncst",
+    "storage_bucket": "chat-ncst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613732719339:android:b88d18a6597262f94f7cae",
+        "android_client_info": {
+          "package_name": "com.example.chat_ncst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613732719339-c2ojt8hqm7r9qbknrnpgsdg96vbm8nps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXAZ5uiP9QQB5skNm_koEs_dkeniSvKWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613732719339-c2ojt8hqm7r9qbknrnpgsdg96vbm8nps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
