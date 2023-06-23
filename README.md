@@ -1,6 +1,13 @@
-# chat_ncst
+# Chat NCST
 
-A new Flutter project.
+This is a part of [**Flutter x Firebase**](https://www.facebook.com/photo/?fbid=270603882137441&set=a.145345444663286) workshop for NCST - Dasmariñas.
+
+
+## Output
+
+This is the final output of Chat NCST App:
+
+<img src="./assets/gifs/portfolio.gif" width="200" height="auto" />
 
 ## Getting Started
 
