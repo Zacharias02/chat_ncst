@@ -7,7 +7,7 @@ This is a part of [**Flutter x Firebase**](https://www.facebook.com/photo/?fbid=
 
 This is the final output of Chat NCST App:
 
-<img src="./assets/gifs/portfolio.gif" width="200" height="auto" />
+https://github.com/Zacharias02/chat_ncst/assets/52057825/2957814e-f7ba-47cb-b131-3775a07274d6
 
 ## Getting Started
 
