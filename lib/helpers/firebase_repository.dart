@@ -1,6 +1,7 @@
 import 'package:chat_ncst/helpers/firebase_service.dart';
 import 'package:chat_ncst/models/message.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 /// This class will help you connect to Firebase Authentication and Cloud Firestore.
 class FirebaseRepository {
@@ -49,8 +50,8 @@ class FirebaseRepository {
   // Send message and stores to Cloud Firestore as document.
   Future<void> sendMessage(String message) async {
     final model = Message(
-      senderId: _service.user!.uid,
-      senderName: _service.user!.displayName,
+      senderId: FirebaseAuth.instance.currentUser!.uid,
+      senderName: FirebaseAuth.instance.currentUser!.displayName,
       message: message,
       createdAt: DateTime.now(),
       updatedAt: DateTime.now(),
